@@ -2,3 +2,8 @@
 	path = Hyperthinkk/MECorp/delivery_note_report/delivery_note_report
 	url = git@github.com:Hyperthinkk/MECorp.git
 	branch = master
+
+[submodule "jayvenug/temp_inv"]
+	path = jayvenug/temp_inv
+	url = git@github.com:jayvenug/temp_inv.git
+	branch = master
