@@ -1,0 +1,4 @@
+[submodule "Hyperthinkk/MECorp/delivery_note_report/delivery_note_report"]
+	path = Hyperthinkk/MECorp/delivery_note_report/delivery_note_report
+	url = git@github.com:Hyperthinkk/MECorp.git
+	branch = master
